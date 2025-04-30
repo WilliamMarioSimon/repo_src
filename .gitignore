@@ -1,0 +1,5 @@
+*.sh
+.vscode/
+.DS_Store
+backups/
+
