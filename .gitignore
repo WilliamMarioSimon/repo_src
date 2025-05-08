@@ -2,4 +2,10 @@
 .vscode/
 .DS_Store
 backups/
+.idea/
 
+.*
+!.gitignore
+!.gitattributes
+!.gitmodules
+!.git/
